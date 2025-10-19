@@ -1,0 +1,2168 @@
+[
+    {
+        "id": "public_test_1",
+        "image_id": "public_test_2_2",
+        "question": "Đây là biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm dừng xe và đỗ xe",
+            "B": "Cấm đỗ xe",
+            "C": "Cấm đỗ xe vào ngày lẻ",
+            "D": "Cấm đỗ xe vào ngày chẵn"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_2",
+        "image_id": "public_test_2_1",
+        "question": "Biển báo màu xanh có gạch đỏ là biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm dừng xe và đỗ xe",
+            "B": "Cấm đỗ xe",
+            "C": "Cấm đỗ xe vào ngày lẻ",
+            "D": "Cấm đỗ xe vào ngày chẵn"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_3",
+        "image_id": "public_test_2_6",
+        "question": "Loại xe nào được phép lưu thông trên đoạn đường này?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.4"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.11"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.10"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Xe ô tô",
+            "B": "Xe mô tô",
+            "C": "Xe đạp",
+            "D": "Xe gắn máy"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_4",
+        "image_id": "public_test_2_12",
+        "question": "Khi di chuyển trên đường cao tốc, phương tiện giao thông được phép di chuyển vơi tốc độ tối thiểu là 60 km/h và tốc độ tối đa là 80 km/h, đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.6"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "P.3"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_5",
+        "image_id": "public_test_2_11",
+        "question": "Hàng đường ở phía bên tay trái chỉ dành cho xe ô tô đúng không?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.11"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.16"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_6",
+        "image_id": "public_test_2_7",
+        "question": "Có biển báo chỉ dẫn ở trong hình trên không?",
+        "relevant_articles": [
+            {
+                "law_id": "36/2024/QH15",
+                "article_id": "11.0"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "35"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_7",
+        "image_id": "public_test_2_5",
+        "question": "Biển báo trên cấm loại xe nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.6"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm xe kéo rơ-moóc",
+            "B": "Cấm xe sơ mi rơ moóc",
+            "C": "Cấm xe ô tô khách ",
+            "D": "Cấm xe ô tô tải"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_8",
+        "image_id": "public_test_2_3",
+        "question": "Biển hình tròn có viền đỏ và dấu gạch trên là biển gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.24"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm ô tô rẽ trái và quay đầu xe",
+            "B": "Ngoài ô tô, cấm mọi phương tiện khác quay đầu xe",
+            "C": "Cấm ô tô quay đầu xe",
+            "D": "Cấm quay đầu xe"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_9",
+        "image_id": "public_test_2_8",
+        "question": "Biển hình tròn viền đỏ có ý nghĩa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển không có ý nghĩa gì cả",
+            "B": "Tốc độ tối đa được cho phép là 60 km/h",
+            "C": "Tốc độ tối thiểu khi lưu thông là 60km/h",
+            "D": "Số lượng tải trọng tối đa mà xe được chở là 60 kg"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_10",
+        "image_id": "public_test_2_10",
+        "question": "Ý nghĩa có biển báo trên là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.1a"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Các xe chỉ được rẽ phải",
+            "B": "Các xe không được rẽ phải",
+            "C": "Có đường lưu thông ở phía bên phải",
+            "D": "Khuyến khích các xe rẽ phải, vẫn có thể được đi hướng khác"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_11",
+        "image_id": "public_test_2_4",
+        "question": "Các loại xe cơ giới không thể vượt nhau (kể cả xe được ưu tiên theo quy định) trên đoạn đường này. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.25"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_12",
+        "image_id": "public_test_2_9",
+        "question": "Đối với làn đường ở gần biển hiệu trên hình trên,xe đạp có được lưu thông trên làn đường này không?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.16"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_13",
+        "image_id": "public_test_3_9",
+        "question": "Đây là loại biển báo gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.23"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo chỉ dẫn ",
+            "B": "Biển báo cấm ",
+            "C": "Biển báo nguy hiểm",
+            "D": "Biển báo hiệu lệnh"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_14",
+        "image_id": "public_test_3_8",
+        "question": "Có bao nhiêu loại biển báo khác nhau (có thể xác định được nội dung biển báo) trong hình ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.7"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.8"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.5"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.11"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": 3,
+            "B": 4,
+            "C": 2,
+            "D": 5
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_15",
+        "image_id": "public_test_3_6",
+        "question": "Tốc độ di chuyển tối đa trên cả 3 làn đường là bao nhiêu ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": 50,
+            "B": 60,
+            "C": 30,
+            "D": 40
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_16",
+        "image_id": "public_test_3_7",
+        "question": "Các biển báo trong hình được đặt ở loại đường nào ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "45"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đường ưu tiên",
+            "B": "Đường cao tốc",
+            "C": "Đường hai chiều",
+            "D": "Đường qua khu đông dân cư"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_17",
+        "image_id": "public_test_3_2",
+        "question": "Nội dung của biển báo này là gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.26"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Xe ô tô tải được phép vượt",
+            "B": "Cấm ô tô",
+            "C": "Cấm xe ô tô tải vượt",
+            "D": "Cấm vượt"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_18",
+        "image_id": "public_test_3_12",
+        "question": "Đây là biển báo \"Đường có ổ gà, lồi lõm\", đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.21"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_19",
+        "image_id": "public_test_3_13",
+        "question": "\"Biển báo này chỉ có hiệu lực vào ngày lẻ.\", đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_20",
+        "image_id": "public_test_3_4",
+        "question": "Biển báo này có tác dụng chỉ cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường, đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.13"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_21",
+        "image_id": "public_test_3_10",
+        "question": "Có bao nhiêu biển báo cấm trong hình ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.6"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": 1,
+            "B": 3,
+            "C": 2,
+            "D": 4
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_22",
+        "image_id": "public_test_3_5",
+        "question": "Biển báo trong hình là loại biển báo gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.23a"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo cấm",
+            "B": "Biển báo chỉ dẫn",
+            "C": "Biển báo phụ",
+            "D": "Biến báo nguy hiểm"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_23",
+        "image_id": "public_test_3_3",
+        "question": "Biển báo có hình tròn, nền xanh, viền đỏ thuộc loại biển báo gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.30"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "11"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo chỉ dẫn",
+            "B": "Biển báo nguy hiểm",
+            "C": "Biển báo hiệu lệnh",
+            "D": "Biển báo cấm"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_24",
+        "image_id": "public_test_3_3",
+        "question": "Nội dung của biển báo có hình tròn, nền xanh, viền đỏ trong hình là gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.30"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm dừng và đỗ xe",
+            "B": "Cấm đỗ xe",
+            "C": "Cấm đỗ xe ngày lẻ",
+            "D": "Cấm đỗ xe ngày chẵn"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_25",
+        "image_id": "public_test_3_11",
+        "question": "Nội dung của biển báo nguy hiểm ở trong hình trên là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.40"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cửa chui",
+            "B": "Cầu vồng",
+            "C": "Đường hầm ",
+            "D": "Bến phà"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_26",
+        "image_id": "public_test_3_1",
+        "question": "\"Đoạn đường này cấm xe tải có trọng tải lớn hơn 1,25 tấn\", đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.6"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_27",
+        "image_id": "public_test_3_1",
+        "question": "\"Xe đạp được phép di chuyển trên đoạn đường này\", đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.10"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_28",
+        "image_id": "public_test_4_6",
+        "question": "Biển báo giao thông có hình tam giác đều, viền đỏ, nền vàng, có hình hai vạch song song thu hẹp ở giữa có ý nghĩa gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.3"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Báo hiệu đường đang được mở rộng.",
+            "B": "Báo hiệu đường phía trước bị thu hẹp cả hai bên.",
+            "C": "Báo hiệu sắp đến đường một chiều.",
+            "D": "Báo hiệu đoạn đường có chướng ngại vật."
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_29",
+        "image_id": "public_test_4_1",
+        "question": "Theo nội dung trên biển chỉ dẫn, xe tải có trọng tải toàn bộ cho phép trên 1,5 tấn được phép hoạt động tại khu vực nội đô thành phố vào khung giờ nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "35"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.11"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Từ 6h00 – 9h00 và từ 16h00 – 19h30",
+            "B": "Từ 6h00 – 21h00",
+            "C": "Từ 6h00 – 19h30",
+            "D": "Từ 21h00 – 6h00 hôm sau"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_30",
+        "image_id": "public_test_4_10",
+        "question": "Biển báo giao thông dưới đây có ý nghĩa gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.24"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm rẽ trái",
+            "B": "Cấm đi thẳng",
+            "C": "Cấm rẽ phải",
+            "D": "Không có đáp án đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_31",
+        "image_id": "public_test_4_2",
+        "question": "Khi đang lái xe trên đường, bạn nhìn thấy biển báo sau đây đặt ở phía trước (biển tam giác viền đỏ, nền vàng, có hình hai em nhỏ nắm tay nhau). Bạn nên xử lý như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.25"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Tăng tốc để nhanh chóng vượt qua khu vực này.",
+            "B": "Giảm tốc độ, quan sát cẩn thận vì có thể có trẻ em băng qua đường.",
+            "C": "Bấm còi để cảnh báo người đi đường.",
+            "D": "Tiếp tục di chuyển bình thường vì không có tín hiệu đèn."
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_32",
+        "image_id": "public_test_4_9",
+        "question": "Xử lý như nào khi gặp biển trên?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "P.3"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Tất cả các phương tiện đều phải chạy tốc độ dưới 60 km/h.",
+            "B": "Tất cả các phương tiện phải chạy trên 80 km/h.",
+            "C": "Cả A và B đều đúng",
+            "D": "Cả A và B đều sai"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_33",
+        "image_id": "public_test_4_11",
+        "question": "Hiệu lệnh của người điều khiển giao thông phải được ưu tiên trước đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "4"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_34",
+        "image_id": "public_test_4_7",
+        "question": "Xe 25 chỗ ngồi được lưu thông trên đường này từ 11 giờ sáng đến 3 giờ chiều đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F5"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.10"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_35",
+        "image_id": "public_test_4_7",
+        "question": "Tất cả phương tiện được phép rẽ phải đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.23"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_36",
+        "image_id": "public_test_4_5",
+        "question": "Biển báo trên có hiệu lực đến vị trí nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "26"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Nơi đường giao nhau tiếp giáp",
+            "B": "Vị trí đặt biển cấm",
+            "C": "Cả A và B đều đúng",
+            "D": "Cả A và B đều sai"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_37",
+        "image_id": "public_test_4_5",
+        "question": "Biển báo trên cấm đỗ xe vào các ngày nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Các ngày lẻ trong tháng",
+            "B": "Các ngày chẵn trong tháng",
+            "C": "Các ngày cuối tuần",
+            "D": "Hằng ngày."
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_38",
+        "image_id": "public_test_4_5",
+        "question": "Biển báo trong hình có ý nghĩa gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm đỗ xe vào mọi ngày trong tuần.",
+            "B": "Chỉ được đỗ xe vào ban đêm.",
+            "C": "Cấm đỗ xe vào các ngày lẻ trong tháng.",
+            "D": "Cấm đỗ xe vào các ngày chẵn trong tháng."
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_39",
+        "image_id": "public_test_4_3",
+        "question": "Biển báo trên có ý nghĩa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "38"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.30"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Khu vực cấm dừng để đổ xăng.",
+            "B": "Vị trí có trạm tiếp nhiên liệu (xăng, dầu).",
+            "C": "Nơi sửa chữa ô tô.",
+            "D": "Khu vực đỗ xe dành cho xe bồn.\n"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_40",
+        "image_id": "public_test_4_12",
+        "question": "Biển \"Giữ khoảng cách an toàn\" có thể sử dụng chữ màu vàng nền đen đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "13"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_41",
+        "image_id": "public_test_4_4",
+        "question": "Xe máy được đỗ trên con đường này đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_42",
+        "image_id": "public_test_4_8",
+        "question": "Các loại xe được dừng và đỗ vào lúc 12 giờ trưa đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_43",
+        "image_id": "public_test_5_1",
+        "question": "Biển \"Cấm xe ô tô khách và xe ô tô tải\" có hiệu lực trong khoảng thời gian nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.7"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.10"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "6:30 - 7:30",
+            "B": "10:45 - 11:45",
+            "C": "16h:30 - 17h30",
+            "D": "Cả A, B, C đều đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_44",
+        "image_id": "public_test_5_3",
+        "question": "Đây là loại biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "P.17"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo cảnh báo nguy hiểm",
+            "B": "Biển báo chỉ dẫn địa điểm và khoảng cách",
+            "C": "Biển báo hiệu lệnh",
+            "D": "Biển cấm xe tải"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_45",
+        "image_id": "public_test_5_11",
+        "question": "Biển báo trong hình bên có ý nghĩa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.25"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm vượt",
+            "B": "Cấm quay đầu xe",
+            "C": "Cấm xe ô tô",
+            "D": "Cấm rẽ trái"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_46",
+        "image_id": "public_test_5_8",
+        "question": "Phương tiện giao thông nào sau đây được chạy tốc độ trên 50 km/h?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Xe gắn máy",
+            "B": "Xe ô tô con",
+            "C": "Xe cứu thương không bật còi, đèn tín hiệu",
+            "D": "Cả A, B, C đều sai."
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_47",
+        "image_id": "public_test_5_9",
+        "question": "Các biển báo trong hình bên thuộc loại biển báo nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.45"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.44"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo cẩm",
+            "B": "Biển báo hiệu",
+            "C": "Biển báo nguy hiểm và cảnh báo",
+            "D": "A, B, C đều đúng"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_48",
+        "image_id": "public_test_5_10",
+        "question": "Biển báo \"Cấm xe ô tô tải có khối lượng chuyên chở lớn hơn 2.5T\" có hiệu lực cấm đối với cả máy kéo và các xe máy chuyên dùng đi vào đoạn đường đặt biển. Điều đó là đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.6"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_49",
+        "image_id": "public_test_5_4",
+        "question": "Trong hình bên, xe ô tô được phép đi vào mấy làn đường (không áp dụng với các xe chuyển làn để ra vào hoặc dừng, đỗ bên đường)? ",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.16"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": 1,
+            "B": 2,
+            "C": 3,
+            "D": 4
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_50",
+        "image_id": "public_test_5_2",
+        "question": "Biển báo xuất hiện trong hình bên là có ý nghĩa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đường cấm",
+            "B": "Cấm xe ô tô",
+            "C": "Cấm xe máy",
+            "D": "Cấm đi ngược chiều"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_51",
+        "image_id": "public_test_5_6",
+        "question": "Trong tất cả biển báo trong hình bên, hãy cho biết xe gắn máy bị cấm đi thẳng trong khoảng thời gian nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.4"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "23:00 - 04:00",
+            "B": "04:00 - 09:00",
+            "C": "09:00 - 16:00",
+            "D": "16:00 - 23:00"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_52",
+        "image_id": "public_test_5_12",
+        "question": "Các biển báo xuất hiện trong hình bên là loại biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo chỉ dẫn và biển hiệu lệnh",
+            "B": "Biển báo cấm và biển chỉ dẫn",
+            "C": "Biển báo hiệu lệnh và biển báo cấm",
+            "D": "Cả A, B, và C đều sai."
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_53",
+        "image_id": "public_test_5_11",
+        "question": "Đây là biển báo cấm vượt. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.25"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_54",
+        "image_id": "public_test_5_7",
+        "question": "\"Biển có viền đỏ, nền trắng, hình vẽ màu đen trong hình bên là biển báo cấm rẽ phải\". Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.23"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_55",
+        "image_id": "public_test_5_5",
+        "question": "Hướng đi đến Thành phố Vinh là hướng đi thẳng, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.14"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_56",
+        "image_id": "public_test_6_12",
+        "question": "Tốc độ nào sau đây mà người lái xe di chuyển trên đoạn đường trong ảnh là không phạp luật?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "46"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": 110,
+            "B": 50,
+            "C": 130,
+            "D": 90
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_57",
+        "image_id": "public_test_6_9",
+        "question": "Biển báo trong hình có ý nghĩa gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.23"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm rẽ trái.",
+            "B": "Cấm quay đầu xe.",
+            "C": "Cấm rẽ phải.",
+            "D": "Chỉ được đi thẳng."
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_58",
+        "image_id": "public_test_6_6",
+        "question": "Trên phần đường có đặt biển báo trên thì đối tượng tham gia giao thông nào sau đây không được phép đi lại?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.12"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Người lái xe ô tô.",
+            "B": "Người đi bộ.",
+            "C": "Người lái xe gắn máy.",
+            "D": "Tất cả những người tham gia giao thông với các loại phương tiện trừ xe được ưu tiên theo quy định."
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_59",
+        "image_id": "public_test_6_15",
+        "question": "Biển báo trong ảnh cảnh  báo điều gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.21"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đường lồi lõm.",
+            "B": "Đường có gồ giảm tốc.",
+            "C": "Vách núi nguy hiểm.",
+            "D": "Đường ngầm."
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_60",
+        "image_id": "public_test_6_7",
+        "question": "Các biển báo trong ảnh thuộc loại biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "25"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "biển hiệu lệnh.",
+            "B": "biển báo nguy hiểm và cảnh báo.",
+            "C": "biển báo cấm.",
+            "D": "biển chỉ dẫn."
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_61",
+        "image_id": "public_test_6_1",
+        "question": "Khi gặp biển báo trong ảnh vào ngày lẻ với biển báo bên trái hoặc ngày chẵn với biển báo bên phải, người điều khiển phương tiện không được đỗ xe ở đoạn đường đó, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_62",
+        "image_id": "public_test_6_10",
+        "question": "Biển báo trong hình là loại biển gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.14"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo cấm.",
+            "B": "Biển chỉ dẫn.",
+            "C": "Biển báo hiệu lệnh.",
+            "D": "Biển cảnh báo nguy hiểm."
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_63",
+        "image_id": "public_test_6_11",
+        "question": "Theo các biển chỉ dẫn trên ảnh thì nút giao tại ngã tư Đại Lộc có đặc điểm gì? ",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.6"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.14"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Ngã tư có đèn tín hiệu giao thông.",
+            "B": "Ngã tư giao với đường ưu tiên",
+            "C": "Ngã tư giao với đường nhánh",
+            "D": "Ngã tư có vòng xuyến."
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_64",
+        "image_id": "public_test_6_2",
+        "question": "Biển cảnh báo trong ảnh cảnh báo điều về đoạn đường phía trước gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.3"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đoạn đường đôi tạm thời hoặc đoạn đường có chiều xe đi và về đi chung.",
+            "B": "Đoạn đường bị thu hẹp cả hai bên.",
+            "C": "Đoạn đường bị thu hẹp về phía trái.",
+            "D": "Đoạn đường bị thu hẹp về phía phải."
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_65",
+        "image_id": "public_test_6_8",
+        "question": "Xe ô tô đi vào 2 làn bên phải của đoạn đường trên ảnh có bị phạm luật không?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.3"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.10"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Có, do có biển báo cấm xe ô tô.",
+            "B": "Không, xe ô tô được chạy vào 2 làn đó với vận tốc 60km/h.",
+            "C": "Tùy vào thời gian, xe ô tô sẽ phạp luật nếu đi vào đoạn đường đó từ 6:00-22:00.",
+            "D": "Không, xe ô tô vẫn có thể chạy vào 2 làn đó trong tình huống cấp bách bất kể thời gian."
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_66",
+        "image_id": "public_test_6_13",
+        "question": "Người điều khiển xe ô tô con được phép dừng đỗ xe tại đoạn đường trong ảnh, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.30"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_67",
+        "image_id": "public_test_6_3",
+        "question": "Người điều khiển phương tiện phải giảm tốc độ khi đi qua đoạn đường này, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.45"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_68",
+        "image_id": "public_test_6_5",
+        "question": "Người điều khiển xe máy được rẽ phải vào đường Hồng Hà lúc 10 giờ sáng, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.23"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.10"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_69",
+        "image_id": "public_test_6_4",
+        "question": "Xe ô tô tải với tải trọng  <3,5 t chỉ được phép đi ở làn nào và giới hạn tốc độ tối đa là bao nhiêu?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27c"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.14"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Làn phải – tối đa 40 km/h.",
+            "B": "Làn giữa – tối đa 80 km/h.",
+            "C": "Làn trái – tối đa 90 km/h.",
+            "D": "Làn giữa – tối đa 60 km/h."
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_70",
+        "image_id": "public_test_6_14",
+        "question": "Người lái xe đi trên cao tốc đế gần đoạn đường trên ảnh mà muốn ra khỏi cao tốc để đi vào tuyến tránh Huế thì phải đi vào làn đường bên phải và tìm đường ra để ra khỏi cao tốc, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "46"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_71",
+        "image_id": "public_test_7_15",
+        "question": "Biển báo trong hình có ý nghĩa như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.13"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Cấm xe người kéo, đẩy",
+            "B": "Cấm xe kéo rơ-moóc",
+            "C": "Cấm xe đạp thồ",
+            "D": "Cấm xe sơ-mi rơ-moóc"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_72",
+        "image_id": "public_test_7_13",
+        "question": "Hai biển báo trong hình báo hiệu gì cho người lái xe?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "28"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.45"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "C.1"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Chuẩn bị đến chỗ ngoặt nguy hiểm bên trái, phương tiện tham gia giao thông lưu thông bình thường",
+            "B": "Chuẩn bị đến chỗ ngoặt nguy hiểm bên trái, yêu cầu phương tiện tham gia giao thông đi chậm",
+            "C": "Chuẩn bị đến chỗ ngoặt nguy hiểm bên phải, yêu cầu phương tiện tham gia giao thông đi chậm",
+            "D": "Chuẩn bị đến chỗ ngoặt nguy hiểm bên phải, phương tiện tham gia giao thông lưu thông bình thường"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_73",
+        "image_id": "public_test_7_2",
+        "question": "Khi nhìn thấy biển báo trong hình, tài xế cần xử lí như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.48"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Chủ động giảm tốc độ",
+            "B": "Chú ý quan sát xung quanh",
+            "C": "Chuẩn bị phanh và giữ khoảng cách an toàn",
+            "D": "Cả 3 đáp trên đều đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_74",
+        "image_id": "public_test_7_11",
+        "question": "Biển báo trong hình cho ta biết điều gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.42"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Chỉ dẫn những nơi có thể tham quan",
+            "B": "Các thông tin về cây cầu ",
+            "C": "Chỉ dẫn địa giới hành chính giữa các tỉnh, huyện, thành phố",
+            "D": "Chỉ dẫn chỗ dừng đỗ xe buýt cho khách lên xuống"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_75",
+        "image_id": "public_test_7_8",
+        "question": "Biển báo trong hình có ý nghĩa như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.17"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Báo hạn chế chiều cao của xe",
+            "B": "Báo hạn chế chiều dài của xe",
+            "C": "Báo hạn chế chiều ngang của xe",
+            "D": "Cự ly tối thiểu giữa hai xe"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_76",
+        "image_id": "public_test_7_9",
+        "question": "Các phương tiện tham gia giao thông được phép dừng xe tại đoạn đường. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.30"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_77",
+        "image_id": "public_test_7_5",
+        "question": "Loại phương tiện nào không được tham gia lưu thông trên làn đường chính giữa?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.27"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Xe ô tô",
+            "B": "Xe tải",
+            "C": "Xe máy",
+            "D": "Xe buýt"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_78",
+        "image_id": "public_test_7_6",
+        "question": "Khi nhìn thấy biển báo trên, muốn đi đến Chánh An phải đi theo hướng nào?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.14"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đi thẳng ",
+            "B": "Đi theo hướng ngược lại",
+            "C": "Rẽ phải",
+            "D": "Rẽ trái"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_79",
+        "image_id": "public_test_7_1",
+        "question": "Nội dung của biển báo trong hình là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Chỉ dẫn bắt đầu đường cao tốc cùng với giá trị tốc độ hạn chế, tốc độ tối đa",
+            "B": "Chỉ dẫn bắt đầu đường cao tốc phân làn đường có tốc độ khác nhau",
+            "C": "Chỉ dẫn điểm kết thúc của đường cao tốc",
+            "D": "Chỉ dẫn địa điểm và phương hướng dùng để chỉ dẫn địa danh nơi đến "
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_80",
+        "image_id": "public_test_7_3",
+        "question": "Biển báo trong hình là biển báo gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "36"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "E.19"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo chỉ dẫn địa giới",
+            "B": "Biển báo chỉ dẫn địa giới trên tuyến đường đối ngoại",
+            "C": "Biển báo bắt đầu khu vực đông dân cư",
+            "D": "Biển báo chỉ dẫn địa điểm"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_81",
+        "image_id": "public_test_7_14",
+        "question": "Biển báo trên cho chúng ta biết điều gì?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "32"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "D.17"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Chuẩn bị đến thành phố",
+            "B": "Có địa danh lịch sử, danh lam thắng cảnh phía trước",
+            "C": "Bắt đầu khu đông dân cư",
+            "D": "Có khu vực có thể tham quan phía trước"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_82",
+        "image_id": "public_test_7_12",
+        "question": "Xe máy được phép lưu thông với tốc độ 100 km/h trên đoạn đường phía trước. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_83",
+        "image_id": "public_test_7_7",
+        "question": "Các phương tiện giao thông được phép dừng xe trên đoạn đường này. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.31"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_84",
+        "image_id": "public_test_7_4",
+        "question": "Đoạn đường phía trước cấm đi ngược chiều. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_85",
+        "image_id": "public_test_7_10",
+        "question": "Xe máy gặp đèn đỏ có biển báo này được phép rẽ phải. Đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.11"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_86",
+        "image_id": "public_test_8_7",
+        "question": "Khi tham gia giao thông, gặp những biển báo này, hãy cho biết những biển báo này thuộc biển báo nào ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "38"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo chỉ dẫn",
+            "B": "Biển báo nguy hiểm và cảnh báo",
+            "C": "Biển báo cấm",
+            "D": "Biển báo hiệu lệnh"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_87",
+        "image_id": "public_test_8_5",
+        "question": "Khi điều khiển phương tiện tham gia giao thông, trên đường cao tốc có những biển báo này thì người tham gia được phép làm gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Giảm tốc độ, chú ý quan sát",
+            "B": "Cho phép đỗ xe cách nhau 5m.",
+            "C": "Không được phép dừng xe",
+            "D": "Được dừng xe cách biển báo 5m"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_88",
+        "image_id": "public_test_8_10",
+        "question": "Biển báo trong hình thường được đặt ở đâu ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "47"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Trong thành phố, thị xã",
+            "B": "Ở nông thôn",
+            "C": "Ở đường cao tốc",
+            "D": "Ở mọi nơi"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_89",
+        "image_id": "public_test_8_8",
+        "question": "Biển nào báo hiệu khoảng cách thực tế từ nơi đặt biển đến nơi cần cự ly tối thiểu giữa hai xe?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.21"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.2"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển 1",
+            "B": "Biển 2",
+            "C": "Cả 2 biển",
+            "D": "Không có biển nào"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_90",
+        "image_id": "public_test_8_1",
+        "question": "Biển báo này cho phép chạy ngược chiều với điều kiện là xe máy phải chạy chậm là đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_91",
+        "image_id": "public_test_8_11",
+        "question": "Trong hình trên chiếc xe ô tô đã vi phạm pháp luật gì trong giao thông đường bộ ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.7"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Đi vào tuyến đường có biển báo cấm ô tô",
+            "B": "Đi ngược chiều",
+            "C": "Đi vào tuyến đường nông thôn",
+            "D": "Đi sai làn đường"
+        },
+        "answer": "A"
+    },
+    {
+        "id": "public_test_92",
+        "image_id": "public_test_8_9",
+        "question": "Khi điều khiển phương tiện giao thông gặp các biển báo giao thông ở tuyến đường này người điều khiển phương tiện không được đi vào gồm những phương tiện nào ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.11"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Xe ô tô, xe máy",
+            "B": "Xe 3 bánh và 4 bánh thô sơ",
+            "C": "Xe tải, xe bán tải",
+            "D": "Xe buýt, xe đón khách"
+        },
+        "answer": "B"
+    },
+    {
+        "id": "public_test_93",
+        "image_id": "public_test_8_9",
+        "question": "Khi điều khiển xe máy trên tuyến đường này, biển báo không có hiệu lực với xe máy là biển báo nào ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.11"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển \"Tốc độ tối đa cho phép\"",
+            "B": "Biển \"Cấm đỗ xe\"",
+            "C": "Biển \"Cấm xe 3 bánh và 4 bánh thô sơ\"",
+            "D": "Biển \"Gộp làn đường theo phương tiện\""
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_94",
+        "image_id": "public_test_8_9",
+        "question": "Xe thô sơ 3 bánh được phép lưu thông vào tuyến đường này vào mọi khung giờ là đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.11"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "41"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "F.10"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_95",
+        "image_id": "public_test_8_6",
+        "question": "Khi tham gia giao thông, gặp biển báo này thì người điều khiển phương tiện giao thông cần chú ý gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.15"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Không được phép chạy quá 10km/h",
+            "B": "Tốc tộ tối thiểu là 10 km/h",
+            "C": "Không được phép điều khiển xe có trọng tải toàn bộ xe 10 tấn trở lên",
+            "D": "Xe từ 10 tấn trở lên phải đi chậm"
+        },
+        "answer": "C"
+    },
+    {
+        "id": "public_test_96",
+        "image_id": "public_test_8_3",
+        "question": "Biển báo giao thông này cho biết chiều dài của xe không được phép vượt quá 9m là đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.19"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_97",
+        "image_id": "public_test_8_2",
+        "question": "Biển báo này là biển báo cấm chạy ngược chiều là đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Đúng"
+    },
+    {
+        "id": "public_test_98",
+        "image_id": "public_test_8_4",
+        "question": "Khi tham gia giao thông, gặp biển báo này thì người điều khiển phương tiện giao thông không được phép làm gì ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Quay xe",
+            "B": "Đi thẳng",
+            "C": "Xi nhan",
+            "D": "Chạy ngược chiều"
+        },
+        "answer": "D"
+    },
+    {
+        "id": "public_test_99",
+        "image_id": "public_test_8_4",
+        "question": "Đoạn đường trên cho phép ưu tiên xe máy đi ngược chiều là đúng hay sai ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Yes/No",
+        "answer": "Sai"
+    },
+    {
+        "id": "public_test_100",
+        "image_id": "public_test_8_1",
+        "question": "Biển báo này thuộc loại biển báo nào ?",
+        "relevant_articles": [
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "22"
+            },
+            {
+                "law_id": "QCVN 41:2024/BGTVT",
+                "article_id": "B.2"
+            }
+        ],
+        "question_type": "Multiple choice",
+        "choices": {
+            "A": "Biển báo cấm",
+            "B": "Biển báo cảnh báo nguy hiểm",
+            "C": "Biển chỉ dẫn",
+            "D": "Bản hiệu lệnh"
+        },
+        "answer": "A"
+    }
+]
