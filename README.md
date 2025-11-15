@@ -8,7 +8,7 @@ Baseline code for retrieval and question answering is employed in retrieval.py a
 NOTES: This dataset is used only for research purposes (non-profit). 
 When using the dataset, please fill and send the agreement form in PDF to the email: sonlt@uit.edu.vn (Alternative: son.lt1103@gmail.com)
 
-Paper: https://arxiv.org/abs/2510.20381  
+Paper: https://aclanthology.org/2025.vlsp-1.48/   
 Please cite the paper if you used this dataset:
 ```
 @inproceedings{t-luu-etal-2025-vlsp,
