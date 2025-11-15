@@ -11,13 +11,25 @@ When using the dataset, please fill and send the agreement form in PDF to the em
 Paper: https://arxiv.org/abs/2510.20381  
 Please cite the paper if you used this dataset:
 ```
-@misc{luu2025vlsp2025mlqatsrchallenge,
-      title={VLSP 2025 MLQA-TSR Challenge: Vietnamese Multimodal Legal Question Answering on Traffic Sign Regulation}, 
-      author={Son T. Luu and Trung Vo and Hiep Nguyen and Khanh Quoc Tran and Kiet Van Nguyen and Vu Tran and Ngan Luu-Thuy Nguyen and Le-Minh Nguyen},
-      year={2025},
-      eprint={2510.20381},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.20381}, 
+@inproceedings{t-luu-etal-2025-vlsp,
+    title = "{VLSP} 2025 {MLQA}-{TSR} Challenge: {V}ietnamese Multimodal Legal Question Answering on Traffic Sign Regulation",
+    author = "T.Luu, Son  and
+      Vo, Trung  and
+      Nguyen, Hiep  and
+      Tran, Khanh Quoc  and
+      Nguyen, Kiet Van  and
+      Tran, Vu  and
+      Nguyen, Ngan Luu-Thuy  and
+      Nguyen, Le-Minh",
+    editor = "Mai, Luong Chi  and
+      Huyen, Nguyen Thi Minh  and
+      Trang, Nguyen Thi Thu",
+    booktitle = "Proceedings of the 11th International Workshop on Vietnamese Language and Speech Processing",
+    month = oct,
+    year = "2025",
+    address = "Hanoi, Vietnam",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.vlsp-1.48/",
+    pages = "402--409"
 }
 ```
